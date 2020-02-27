@@ -25,6 +25,7 @@
     "expo-image-manipulator": "~8.0.0",
     "expo-image-picker": "~8.0.1",
     "firebase": "^6.0.2",
+    "firebase-tools": "^7.14.0",
     "geofirestore": "^3.4.1",
     "immutable": "^4.0.0-rc.12",
     "moment": "^2.0.0",
